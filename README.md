@@ -1,1 +1,3 @@
-# Merge-Sort-
+# Merge-Sort
+
+Merge sort implementation in C++
